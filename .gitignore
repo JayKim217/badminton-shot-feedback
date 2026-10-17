@@ -1,0 +1,15 @@
+
+/external/*
+!/external/court-detection/
+/outputs/
+/input/
+/input_videos/
+.venv/
+__pycache__/
+.DS_Store
+.env
+external/court-detection/build/
+/multi_c_13.png
+/multi_c_13.txt
+/Tagesbuch.txt
+/Direction.rtf
